@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1632168219 source:c:\users\federico\documents\unicen\algoritmos ii\tpe_2021\biblioteca\main.cpp
+	<iostream>
+	<fstream>
+
+1633528460 source:d:\juanm\documents\descargas\proyecto base\biblioteca\main.cpp
+	<iostream>
+	<fstream>
+	"Inventario.h"
+
+1634138741 source:d:\juanm\documents\descargas\proyecto base\biblioteca\src\inventario.cpp
+	"Inventario.h"
+	"Libro.h"
+
+1634138724 d:\juanm\documents\descargas\proyecto base\biblioteca\include\inventario.h
+	"iostream"
+	"Libro.h"
+	"map"
+
+1633527757 source:d:\juanm\documents\descargas\proyecto base\biblioteca\src\libro.cpp
+	"Libro.h"
+
+1634137361 d:\juanm\documents\descargas\proyecto base\biblioteca\include\libro.h
+	"iostream"
+
+1634482828 source:c:\users\usuario\documents\prog facultad\ayda2tpe\biblioteca\src\libro.cpp
+	"Libro.h"
+
+1636293970 c:\users\usuario\documents\prog facultad\ayda2tpe\biblioteca\include\libro.h
+	"iostream"
+
+1636294514 source:c:\users\usuario\documents\prog facultad\ayda2tpe\biblioteca\src\inventario.cpp
+	"Inventario.h"
+	"Libro.h"
+
+1636293840 c:\users\usuario\documents\prog facultad\ayda2tpe\biblioteca\include\inventario.h
+	"iostream"
+	"Libro.h"
+	"map"
+	"list"
+	"vector"
+
+1635539706 source:c:\users\usuario\documents\prog facultad\ayda2tpe\biblioteca\main.cpp
+	<iostream>
+	<fstream>
+	"Inventario.h"
+	"list"
+	"map"
+	"vector"
+
+1636558839 source:d:\juanm\documents\ayda2 tpe\ayda2tpe\biblioteca\main.cpp
+	<iostream>
+	<fstream>
+	"Inventario.h"
+	"list"
+	"map"
+	"vector"
+
+1636559356 d:\juanm\documents\ayda2 tpe\ayda2tpe\biblioteca\include\inventario.h
+	"iostream"
+	"Libro.h"
+	"map"
+	"list"
+	"vector"
+
+1636397165 d:\juanm\documents\ayda2 tpe\ayda2tpe\biblioteca\include\libro.h
+	"iostream"
+
+1636558655 source:d:\juanm\documents\ayda2 tpe\ayda2tpe\biblioteca\src\inventario.cpp
+	"Inventario.h"
+	"Libro.h"
+
+1636397165 source:d:\juanm\documents\ayda2 tpe\ayda2tpe\biblioteca\src\libro.cpp
+	"Libro.h"
+
