@@ -1,0 +1,42 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2023-09-19 09:23:02
+
+Elaboration top modules:
+Architecture                  processor_tb_arq(processor_tb)
+
+
+-----------------------------------------------------------------------------------------------
+Entity       | Architecture     | Library | Info | Compiler Version      | Compilation Options
+-----------------------------------------------------------------------------------------------
+processor_tb | processor_tb_arq | work    |      | 2022.04.117 (Linux64) | 
+processor    | processor_arq    | work    |      | 2022.04.117 (Linux64) | 
+memory       | mem_arq          | work    |      | 2022.04.117 (Linux64) | 
+Registro     | registers_arch   | work    |      | 2022.04.117 (Linux64) | 
+Alu          | Alu_arch         | work    |      | 2022.04.117 (Linux64) | 
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+VHDL Package                    | Library | Info | Compiler Version      | Compilation Options
+-----------------------------------------------------------------------------------------------
+standard                        | std     |      |                       | <unavailable>
+TEXTIO                          | std     |      | 2022.04.117 (Linux64) |  -2019
+std_logic_1164                  | ieee    |      | 2022.04.117 (Linux64) |  -2008
+std_logic_arith                 | ieee    |      | 2022.04.117 (Linux64) | <unavailable>
+STD_LOGIC_UNSIGNED              | ieee    |      | 2022.04.117 (Linux64) | <unavailable>
+std_logic_textio                | ieee    |      | 2022.04.117 (Linux64) | <unavailable>
+NUMERIC_STD                     | ieee    |      | 2022.04.117 (Linux64) |  -2008
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+Library                         | Comment
+-----------------------------------------------------------------------------------------------
+ieee                            | Standard IEEE packages library
+std                             | Standard VHDL library
+work                            | None
+-----------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim processor_tb
+
+License to run VHDL performance optimized simulation unavailable.
+
+The performance of simulation is reduced. Version EDU Edition
